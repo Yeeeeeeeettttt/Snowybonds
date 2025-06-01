@@ -1,5 +1,7 @@
 # Snowy Bonds™ - Connecting Hearts, Clearing Paths
 
+> The project is currently in the development stage, so some features and technical implementations described in this document are still part of future plans.
+
 ## Introduction
 
 **Snowy Bonds™** is a non-profit mobile platform developed by Team SnowyBonds. It's designed to address the significant health risks associated with snow shoveling, particularly for vulnerable individuals such as seniors and those with pre-existing health conditions. Our platform connects people needing snow removal services with local community volunteers, fostering stronger community ties and ensuring timely assistance. Our mission is to make snow removal safer, more accessible, and environmentally friendly, transforming a challenging chore into an opportunity for community service and engagement.
