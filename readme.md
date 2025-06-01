@@ -36,6 +36,10 @@ The Snowy Bonds™ platform is built with a focus on scalability, accessibility,
     * **Deployment:** APIs for AI model integration, with potential deployment via platforms like Hugging Face Spaces.
 * **Core Platform Features:** User registration, service request/acceptance flows, real-time notifications, preference settings, image upload for CV analysis, feedback system, and a points/rewards system for volunteers.
 
+## How to run?
+
+Visit our project demo on [Thunkable](https://x.thunkable.com/projectPage/681a7393ddce170bfb21fdb6).
+
 ---
 
 This project aims to harness the power of technology and AI for social good, creating a safer and more connected community, one cleared pathway at a time.
